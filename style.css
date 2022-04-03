@@ -1,0 +1,62 @@
+.ajouter{
+    height: 50px;
+    width: 400px;
+    margin: 100px;
+    padding: 20px;
+    display: inline-block;
+    background-color: #FF8C00;
+    border-width: 5px;
+    box-sizing: border-box;   
+}
+.ajoutee
+{
+    color : white;
+    text-decoration: none;
+    font-size: 18px; 
+}
+.listee
+{
+    color : white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.liste{
+    height: 50px;
+    width: 400px;
+    margin: 100px;
+    padding: 20px;
+    display: inline-block;
+    background-color: brown;
+    border-width: 5px;
+    box-sizing: border-box;   
+}
+.mod
+{
+    text-decoration: none; 
+    background-color: brown; 
+    padding:7px; 
+    border-radius:5px;
+    color:white;
+}
+.sup
+{
+    text-decoration: none; 
+    background-color: #FF8C00;
+     padding:7px; 
+     border-radius:5px;
+     color:white;
+}
+.etudiant
+{
+    padding: 15px; 
+    background-color: brown;
+    width: 10em; 
+    height:20px;
+    margin:14px; 
+    border-radius:4px;
+}
+.etud
+{
+    text-decoration: none; 
+    color:white;
+}
